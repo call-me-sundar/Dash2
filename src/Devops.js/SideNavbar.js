@@ -17,9 +17,9 @@ export default function SideNavbar() {
             <hr className="sidebar-divider my-0" />
 
             <li className="nav-item active">
-                <a className="nav-link" href="index.html">
+                <Link className="nav-link" to='/tabledatas'>
                     <i className="fas fa-fw fa-tachometer-alt"></i>
-                    <span>SideNavbar</span></a>
+                    <span>Table Datas</span></Link>
             </li>
 
             <hr className="sidebar-divider" />

@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.fs-7 {
+  font-size: 0.6rem;
+}
+
+.form-check-input:checked {
+  background-color: var(--bs-green);
+  border-color: var(--bs-green);
+}

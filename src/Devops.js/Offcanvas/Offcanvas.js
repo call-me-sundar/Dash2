@@ -16,7 +16,7 @@ export default function () {
                     </h5>
                     <button
                         type="button"
-                        className="btn-close"
+                        className="btn-close shadow-none"
                         data-bs-dismiss="offcanvas"
                         aria-label="Close"
                     />
